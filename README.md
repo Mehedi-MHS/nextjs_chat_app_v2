@@ -1,5 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+## Nextjs 13.4 simple chat app using socket.io.
+Functionalities:
+- Create private room and join to chat privately.
+Bugs:
+- Anyone outside of room cannnot see your private messeges but can send you messege in room.
+- This bug will be fixed in version 3.
 ## Getting Started
 
 First, run the development server:
