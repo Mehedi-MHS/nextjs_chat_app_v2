@@ -4,7 +4,7 @@ Functionalities:
   
  Bugs:
 - Anyone outside of room cannnot see your private messeges but can send you messege in room.
-- This bug will be fixed in version 3.
+- This bug will be fixed soon in version 3.
 ## Getting Started
 
 First, run the development server:
