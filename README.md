@@ -1,7 +1,8 @@
 ## Nextjs 13.4 simple chat app using socket.io.
 Functionalities:
 - Create private room and join to chat privately.
-Bugs:
+  
+ Bugs:
 - Anyone outside of room cannnot see your private messeges but can send you messege in room.
 - This bug will be fixed in version 3.
 ## Getting Started
